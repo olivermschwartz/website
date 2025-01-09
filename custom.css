@@ -1,5 +1,5 @@
 body { 
-    background-color: #D5E7E5;
+    background-color: #88BDBC;
 }
 
 .logo {
@@ -65,7 +65,7 @@ body {
   .toc {
     /* flex: 1; */
     width: 33%;
-    background-color: #D5E7E5;
+    background-color: #88BDBC;
     overflow-y: auto;
     position: fixed;
     /* height: 100vh; */
@@ -113,7 +113,7 @@ body {
     margin-left: 38%;
     margin-right: 10%;
     scroll-margin-bottom: 100px;
-    background-color: #D5E7E5;    
+    background-color: #88BDBC;    
     overflow-y: hidden;
     margin-bottom: 60px;
  }
