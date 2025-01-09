@@ -19,7 +19,7 @@ body {
 }
 
 .container a {
-    color: #F5F5F5;
+    color: black;
 }
 
 .navbar {
@@ -51,11 +51,11 @@ body {
   }
 
   .content_box a {
-    color: #F5F5F5; 
+    color: black; 
   }
 
   .content_box p {
-    color: #F5F5F5;
+    color: black;
   }
 
   .content_box h2 {
