@@ -1,5 +1,5 @@
 body { 
-    background-color: #88BDBC;
+    background-color: #D5E7E5;
 }
 
 .logo {
@@ -19,7 +19,7 @@ body {
 }
 
 .container a {
-    color: white;
+    color: #F5F5F5;
 }
 
 .navbar {
@@ -51,21 +51,21 @@ body {
   }
 
   .content_box a {
-    color: White; 
+    color: #F5F5F5; 
   }
 
   .content_box p {
-    color: white;
+    color: #F5F5F5;
   }
 
   .content_box h2 {
-    color: #254E58;
+    color: #346675;
   }
 
   .toc {
     /* flex: 1; */
     width: 33%;
-    background-color: #88BDBC;
+    background-color: #D5E7E5;
     overflow-y: auto;
     position: fixed;
     /* height: 100vh; */
@@ -78,13 +78,13 @@ body {
   .toc h1 {
     margin-left: 10%;
     margin-right: 5%;
-    color: #254E58;
+    color: #346675;
   }
 
   .toc h3 {
     margin-left: 10%;
     margin-right: 5%;
-    color: #254E58;
+    color: #346675;
   }
 
 
@@ -113,7 +113,7 @@ body {
     margin-left: 38%;
     margin-right: 10%;
     scroll-margin-bottom: 100px;
-    background-color: #88BDBC;    
+    background-color: #D5E7E5;    
     overflow-y: hidden;
     margin-bottom: 60px;
  }
@@ -134,7 +134,7 @@ body {
     width: 100%;
     margin: 0;
     padding: 0;
-    border-bottom: 1px dotted #000; /* Dotted line at the bottom of each row */
+    border-bottom: 1px dotted #A3B8BF; /* Dotted line at the bottom of each row */
   }
   
   /* Style individual columns */
@@ -162,6 +162,6 @@ body {
 
 
 .footer {
-    background-color: #112D32;
+    background-color: #1B3F45;
     height: 130px;
 }
